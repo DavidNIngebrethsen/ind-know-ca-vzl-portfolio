@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 1rem 4rem;
+}
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.head-cont {
+    display: flex;
+    gap: 2rem;
+}
+.head-btn {
+    color: white;
+    text-decoration: none;
+}
