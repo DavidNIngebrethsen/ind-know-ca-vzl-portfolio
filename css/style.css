@@ -1,4 +1,4 @@
-body {
+/* body {
     background-color: black;
     color: white;
 }
@@ -20,4 +20,16 @@ a {
 .head-btn {
     color: white;
     text-decoration: none;
+} */
+
+.about-image {
+    background-image: url(../img/portrait.png);
+    min-height: 50rem;
+}
+.footer-container {
+    background-color: gray;
+}
+.footer-text-heavy {
+    font-weight: 900;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
