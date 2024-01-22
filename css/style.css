@@ -22,6 +22,9 @@ a {
     text-decoration: none;
 } */
 
+.portfolio-text-container {
+    min-height: 40rem;
+}
 .about-image {
     background-image: url(../img/portrait.png);
     min-height: 50rem;
